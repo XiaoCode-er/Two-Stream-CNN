@@ -7,4 +7,4 @@ Two Stream CNN is proposed in [__SKELETON-BASED ACTION RECOGNITION WITH CONVOLUT
 * matplotlib
 * numpy
 ## Network Architecture
-The network mainly consists of four modules which are skeleton transformer, ConvNet, Feature Fusion and Classification. The inputs of two stream are raw data(x, y, z) and frame difference respectively. As show below :
+The network mainly consists of four modules which are `Skeleton Transformer`, `ConvNet`, `Feature Fusion` and `Classification`. The inputs of two stream are raw data(x, y, z) and frame difference respectively. As show below :
